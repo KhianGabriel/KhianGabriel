@@ -13,8 +13,8 @@
 
 <div>
   <a href="https://github.com/KhianGabriel">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhianGabriel&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KhianGabriel&show_icons=true&theme=dracula&v=1"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhianGabriel&layout=compact&langs_count=7&theme=dracula&t=12345"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KhianGabriel&show_icons=true&theme=dracula&v=1&t=12345"/>
   </a>
 </div>
 
