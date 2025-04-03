@@ -1,6 +1,6 @@
 ### Olá!! Eu sou Khian Gabriel 👋
 
-- 🌱 Atualmente estou aprendendo Java, JSP, JPA e Hibernate, Bootstrap, JavaScript, JQuery e PostgreSQL.
+- 🌱 SpringBoot, JPA e Hibernate, Bootstrap, JavaScript, React e PostgreSQL.
 - 👯 Estou procurando colaborar em projetos fullstack, utilizando as tecnologias que estou estudando e praticando.
 - 📫 Como entrar em contato comigo:
   
@@ -10,12 +10,5 @@
     <a href = "mailto:khiankgbf@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/khian-gabriel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div>
-
-<div>
-  <a href="https://github.com/KhianGabriel">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhianGabriel&layout=compact&langs_count=7&theme=dracula&t=12345"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KhianGabriel&show_icons=true&theme=dracula&v=1&t=12345"/>
-  </a>
-</div>
 
 
