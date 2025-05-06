@@ -1,6 +1,6 @@
 ### Olá!! Eu sou Khian Gabriel 👋
 
-- 🌱 SpringBoot, JPA e Hibernate, Bootstrap, JavaScript, React e PostgreSQL.
+- 🌱 SpringBoot, Angular, TypeScript, JavaScript, JPA e Hibernate, Bootstrap e PostgreSQL.
 - 👯 Estou procurando colaborar em projetos fullstack, utilizando as tecnologias que estou estudando e praticando.
 - 📫 Como entrar em contato comigo:
   
